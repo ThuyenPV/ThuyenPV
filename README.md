@@ -2,12 +2,6 @@
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Working:
 
-- 🔭 Awared Talent Scholarship by mgm Technology Company at [mgm technology partners vietnam](https://www.mgm-tp.com/en/) (May/2021 - Present)
-- 🌱 Top 10 best mobile products in Devfest 2019 with theme “Green up your code” [Viet Nam Hackathon](https://vnhackathon.com/) (Aug/2020 - Present)
-- 👯 Passport Information Technology Standard recognized equally bettwen [VITEC (Viet Nam)](http://www.vitec.org.vn/) & [JITEC (JAPAN)](https://www.jitec.ipa.go.jp/) 
-- 🤔 Contribute [Phone Country Picker](https://pub.dev/packages/phone_country_picker) on The [pub.dev](https://pub.dev/)
-- ⚡ Mobile Developer [Flutter](https://flutter.dev/) (Jul/2020 - Present)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Open Source Work Stats:
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
