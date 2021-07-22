@@ -19,9 +19,6 @@
 ### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
 
 <p>
-	<a href="http://planetcoder.net/" target="_blank">
-		<img alt="Website" src="https://img.shields.io/badge/-http%3A%2F%2Fplanetcoder.net%2F-orange?style=flat&logo=google-chrome">
-	</a>
 	<a href="https://www.linkedin.com/in/thuyen-pham-05447516b/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/-danies%20pham-blue?style=flat&logo=linkedin">
 	</a>
