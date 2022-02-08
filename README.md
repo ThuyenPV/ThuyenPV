@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 ### Connect with me: <img src="https://raw.githubusercontent.com/nguyenthanhlong11/nguyenthanhlong11/master/Assets/handshake.gif" height="30px">
-### Buy a coffee: https://ko-fi.com/zuyenz
 <p>
 	<a href="https://www.linkedin.com/in/thuyen-pham-05447516b/" target="_blank">
 		<img alt="LinkedIn" src="https://img.shields.io/badge/-danies%20pham-blue?style=flat&logo=linkedin">
