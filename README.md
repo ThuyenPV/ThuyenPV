@@ -1,3 +1,3 @@
-_**I know for sure that what we dwell on is who we become.**_
+_**A man who has no imagination has no wings.**_
 
-Oprah Winfrey
+Mohamad Ali
