@@ -36,11 +36,11 @@ jobs:
       run: npm run generate
     - name: Update README.md
       run: |
-        git config --global user.email github-actions[bot]@users.norely.github.com
-        git config --global user.name github-actions[bot]
+        git config --global user.email phamvanthuyen2802@gmail.com
+        git config --global user.name "ThuyenPV"
         git add .
         git commit -m "Updated README.md" || echo "No changes to commit"
-        git push
+        git push -f origin master
     - name: Push changes
       uses: ad-m/github-push-action@master
       with:
