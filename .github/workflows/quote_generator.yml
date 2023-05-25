@@ -18,12 +18,7 @@ jobs:
       checks: read
       deployments: read
       discussions: read
-      issues: read
-      metadata: read
       packages: read
-      pullRequests: read
-      repositoryProjects: read
-      securityEvents: read
 
     steps:
     - uses: actions/checkout@v3
