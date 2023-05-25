@@ -16,7 +16,6 @@ jobs:
       repository-projects: read
       actions: read
       checks: read
-      contents: read
       deployments: read
       discussions: read
       issues: read
