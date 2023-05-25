@@ -9,16 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write
       id-token: write
-      pull-requests: read
-      issues: read
-      repository-projects: read
-      actions: read
-      checks: read
-      deployments: read
-      discussions: read
-      packages: read
+      pull-requests: write
+      issues: write
+      repository-projects: write
+      actions: write
+      checks: write
+      deployments: write
+      discussions: write
+      packages: write
 
     steps:
     - uses: actions/checkout@v3
