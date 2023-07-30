@@ -3,7 +3,7 @@ name: quote_generator
 on:
   workflow_dispatch:
   schedule:
-  - cron: "* * * * *"
+  - cron: "0 0 * * *"
   push:
     branches:
       - master
