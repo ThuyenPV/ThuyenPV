@@ -1,3 +1,3 @@
-_**Hang Out with People Who are Better than You.**_
+_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
 
-Warren Buffett
+Ray Kroc
