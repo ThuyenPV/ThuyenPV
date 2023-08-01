@@ -1,3 +1,3 @@
-_**Luck is a dividend of sweat. The more you sweat, the luckier you get**_
+_**Let our advance worrying become advance thinking and planning.**_
 
-Ray Kroc
+Winston Churchill
