@@ -1,3 +1,3 @@
-_**A quitter never wins and a winner never quits**_
+_**Winning isn't everything.. It's the only thing.**_
 
-Napoleon Hill
+Vincent van Gogh
