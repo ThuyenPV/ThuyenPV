@@ -1,3 +1,3 @@
-_**Winning isn't everything.. It's the only thing.**_
+_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
 
-Vincent van Gogh
+Polybius
