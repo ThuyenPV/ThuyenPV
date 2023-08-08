@@ -1,3 +1,3 @@
-_**Those who know how to win are much more numerous than those who know how to make proper use of their victories**_
+_**When it comes to winning, you need the skill and the will.**_
 
-Polybius
+Frank Tyger
