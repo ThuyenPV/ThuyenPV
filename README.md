@@ -1,3 +1,3 @@
-_**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**_
+_**If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.**_
 
-Henry David Thoreau
+Barack Obama
