@@ -1,3 +1,3 @@
-_**By failing to prepare, you are preparing to fail.**_
+_**It wasn't raining when Noah built the ark..**_
 
-Benjamin Franklin
+Howard Ruff
