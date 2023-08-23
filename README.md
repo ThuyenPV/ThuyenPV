@@ -1,3 +1,3 @@
-_**People who are crazy enough to think they can change the world, are the ones who do.**_
+_**You must be the change you want to see in the world..**_
 
-Apple Computers
+Mohandas Karamchand Gandhi
