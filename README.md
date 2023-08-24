@@ -1,3 +1,3 @@
-_**You must be the change you want to see in the world..**_
+_**Whether you think you can or think you can't, you're right..**_
 
-Mohandas Karamchand Gandhi
+Henry Ford
