@@ -1,3 +1,3 @@
-_**The man who removes a mountain begins by carrying away small stones..**_
+_**Vision without action is daydream. Action without vision is nightmare..**_
 
-Chinese Proverb
+Japanese Proverb
