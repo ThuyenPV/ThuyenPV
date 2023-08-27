@@ -1,3 +1,3 @@
-_**Vision without action is daydream. Action without vision is nightmare..**_
+_**I am an optimist. It does not seem too much use being anything else..**_
 
-Japanese Proverb
+Winston Churchill
