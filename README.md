@@ -1,3 +1,3 @@
-_**The best way to predict the future is to create it.**_
+_**Positive anything is better than negative thinking.**_
 
-Abraham Lincoln
+Elbert Hubbard
